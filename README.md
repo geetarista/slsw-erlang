@@ -30,7 +30,7 @@ basic:mirror(hello).
 
 Learn more Erlang:
 
-- [Seven Languages in Seven Weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) (of course!)
+- [Seven Languages in Seven Weeks](http://pragprog.com/book/btlang/seven-languages-in-seven-weeks) (of course!)
 - [Erlang in Practice](http://pragprog.com/screencasts/v-kserl/erlang-in-practice)
 - [Programming Erlang](http://pragprog.com/book/jaerlang/programming-erlang)
 - [Learn You Some Erlang](http://learnyousomeerlang.com/)
