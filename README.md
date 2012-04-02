@@ -26,6 +26,17 @@ basic:mirror(hello).
 % => hello
 ```
 
+## Resources
+
+Learn more Erlang:
+
+- [Seven Languages in Seven Weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) (of course!)
+- [Erlang in Practice](http://pragprog.com/screencasts/v-kserl/erlang-in-practice)
+- [Programming Erlang](http://pragprog.com/book/jaerlang/programming-erlang)
+- [Learn You Some Erlang](http://learnyousomeerlang.com/)
+- [Erlang Programming](http://shop.oreilly.com/product/9780596518189.do)
+- [Erlang and OTP in Action](http://manning.com/logan/)
+
 ## License
 
 The code taken frome the book comes with the following copyright/disclaimer:
