@@ -24,6 +24,7 @@ c(basic).
 % call the mirror function in the basic module
 basic:mirror(hello).
 % => hello
+```
 
 ## License
 
